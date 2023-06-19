@@ -1,5 +1,9 @@
-<a href="mailto:yusg9603@naver.com"><img src="https://img.shields.io/badge/mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=leegm1798@naver.com"/></a>
-<a href="https://stonage.tistory.com/"><img src="https://img.shields.io/badge/blog-d14836?style=flat-square&logo=tistory&logoColor=white&link=leegm1798@naver.com"/></a>
+자바 백엔드 개발자를 희망하고 있습니다.
+
+💙 about me<br><br>
+<a href="mailto:yusg9603@naver.com"><img src="https://img.shields.io/badge/mail-1EC800?style=flat-square&logo=Gmail&logoColor=white&link=leegm1798@naver.com"/></a> 메일
+<br>
+<a href="https://stonage.tistory.com/"><img src="https://img.shields.io/badge/blog-d14836?style=flat-square&logo=tistory&logoColor=white&link=leegm1798@naver.com"/></a> 기술블로그
 
 
 <!--
