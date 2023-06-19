@@ -1,4 +1,5 @@
-### Hi there 👋
+<a href="mailto:yusg9603@naver.com"><img src="https://img.shields.io/badge/mail-1EC800?style=flat-square&logo=naver&logoColor=white&link=leegm1798@naver.com"/></a>
+
 
 <!--
 **Stonage96/Stonage96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
