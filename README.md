@@ -3,7 +3,7 @@
 💙 about me<br><br>
 <a href="mailto:yusg9603@naver.com"><img src="https://img.shields.io/badge/mail-1EC800?style=flat-square&logo=Gmail&logoColor=white&link=leegm1798@naver.com"/></a> 메일
 <br>
-<a href="https://stonage.tistory.com/"><img src="https://img.shields.io/badge/blog-d14836?style=flat-square&logo=tistory&logoColor=white&link=leegm1798@naver.com"/></a> 기술블로그
+<a href="https://stonage.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-d14836?style=flat-square&logo=tistory&logoColor=white&link=leegm1798@naver.com"/></a> 기술블로그
 
 
 <!--
