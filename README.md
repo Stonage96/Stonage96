@@ -1,4 +1,5 @@
-<a href="mailto:yusg9603@naver.com"><img src="https://img.shields.io/badge/mail-1EC800?style=flat-square&logo=naver&logoColor=white&link=leegm1798@naver.com"/></a>
+<a href="mailto:yusg9603@naver.com"><img src="https://img.shields.io/badge/mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=leegm1798@naver.com"/></a>
+<a href="https://stonage.tistory.com/"><img src="https://img.shields.io/badge/blog-d14836?style=flat-square&logo=tistory&logoColor=white&link=leegm1798@naver.com"/></a>
 
 
 <!--
